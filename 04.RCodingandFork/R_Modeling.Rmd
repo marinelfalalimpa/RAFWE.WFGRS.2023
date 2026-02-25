@@ -9,7 +9,7 @@ ok, let's pull in those datasets we made
 first we'll se the working drive, then load from there
 ```{r}
 setwd("C:/Documents/GitHub/demo/RAFWE.WFGRS.2023/04.RCodingandFork")
-> load("C:/Documents/GitHub/demo/RAFWE.WFGRS.2023/04.RCodingandFork/datasetcreation/sallysonwood.RData")
+load("C:/Documents/GitHub/demo/RAFWE.WFGRS.2023/04.RCodingandFork/datasetcreation/sallysonwood.RData")
 ```
 Ok cool, look at that, our data is ready to go
 
